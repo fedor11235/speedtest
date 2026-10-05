@@ -1,0 +1,16 @@
+{
+  "name": "speedtest-js",
+  "version": "1.0.0",
+  "description": "Minimal internet download-speed meter (no dependencies)",
+  "main": "speedtest.js",
+  "bin": {
+    "speedtest": "speedtest.js"
+  },
+  "scripts": {
+    "start": "node speedtest.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "license": "MIT"
+}
